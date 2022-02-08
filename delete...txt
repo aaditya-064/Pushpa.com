@@ -1,0 +1,20 @@
+<html>
+
+<title> Essay on education system of Nepal - Research Essay </title>
+	
+<body bgcolor="lightblue" text="brown" link="white" vlink="green" alink="black">
+<p><strong><font size = "6">Contact</font><br  /><strong>
+<p><strong><font size = "7">Introduction</font><br /><strong></p>
+<p><strong><font size = "5">In my research essay, I explore the education system in Nepal. I am already aware that the education system in Nepal was based on home</font><br  /><strong></p>
+<p><strong><font size = "5">schooling and Gurukul, but since they become a democracy in 1951, they have made many improvements. It is my intention to find out what</font><br  /><strong></p> 
+<p><strong><font size = "5">those improvements are.</font><br /><strong></p>
+<p><strong><font size = "7">Methology</font><br  /><strong></p>
+<p><strong><font size = "5">My main methodology will include reading written reasearch on the subject from local libraries, University libraries, and trusted online</font><br  /><strong></p> 
+<p><strong><font size = "5">resources. I will also research and read records and websites realting to trusted statistics. They have school and higher education, where a student has to apply for</font><br  /><strong></p>
+<p><strong><font size = "5">higher education as people have in other countries. A student gets a school-leaving certificate for completing school and getting their education. Grades 11 and 12 are</font><br  /><strong></p>
+<p><strong><font size = "5">considered higher secondary education, for which a student gets a certificate for completing by the HSEB, which was the Higher Secondary Education Board.</font><br  /><strong></p>
+<center><p><strong><font size = "7" color="grey">Thank you!!</font><br /><strong></p></center>	
+<p><center><strong><font size = "7" color="black">Main Credit to Aaditya Shrestha and little to Saiman Kunwar</font><br  /><strong></p></center>
+</body>
+</html>
+
